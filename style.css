@@ -42,7 +42,7 @@ p {
   width: 100%;
 }*/
 
-div {
+div+p {
   display: block;
   float: left;
   width: 25%;
