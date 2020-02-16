@@ -37,11 +37,11 @@ figcaption {
   margin-right: auto;
 }
 
-/*#details {
+#details {
   display: block;
-  text-align: center;
-  width: 100%;
-}*/
+  /*text-align: center;
+  width: 100%;*/
+}
 
 div {
   /*display: block;*/
