@@ -43,7 +43,7 @@ p {
 }*/
 
 div {
-  /*display: block;*/
+  display: block;
   float: left;
   width: 25%;
   text-align: center;
